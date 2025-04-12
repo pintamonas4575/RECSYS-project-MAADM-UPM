@@ -5,7 +5,7 @@ Recommendation Systems project from ML and BD Master Degree from UPM.
 * Content-based filtering competition
 
 # 📓 *RECSYS_torneo_1.ipynb*
-Notebook for collaborative filtering competition. Models tested such as SVD, SVD++ anf NMF
+Notebook for collaborative filtering competition. Models tested such as SVD, SVD++ and NMF.
 
 # 📓 *RECSYS_torneo_2.ipynb*
 Notebook for content-based filtering competition.
