@@ -48,6 +48,6 @@ We recommend you not to do bad things. In other words, do good things.
 
 # 👥 Authors
 
-* Álvaro Fraile [@alvarofraile](@alvarofraile)
-* Jaime Álvarez [@JaimeAlvarez434](@JaimeAlvarez434)
-* Alejandro Mendoza [@pintamonas4575](@pintamonas4575)
+* Álvaro Fraile [@alvarofraile](https://github.com/alvarofraile)
+* Alejandro Mendoza [@pintamonas4575](https://github.com/pintamonas4575)
+* Jaime Álvarez [@JaimeAlvarez434](https://github.com/JaimeAlvarez434)
